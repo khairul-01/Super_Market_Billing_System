@@ -1,5 +1,5 @@
 # Super_Market_Billing_System
-This project is about Super Market Billing System C++ codding.
+This project is about Super Market Billing System using C++ codding.
 
 In this project, there is Super market main menu where 
 administrator or buyer can choose their option. Administrator, after log 
